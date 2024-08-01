@@ -6,7 +6,7 @@ int main()
 {
 
 
-	cout << "Hi , this is cpp file ";
+	cout << "Deitle ";
 
 	return 0;
 
